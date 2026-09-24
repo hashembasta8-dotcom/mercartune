@@ -1,0 +1,8 @@
+target/
+Cargo.lock
+*.exe
+*.pdb
+.env
+secrets/
+__pycache__/
+*.pyc
